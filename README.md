@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5bbcfe9e-9706-4417-b6a9-44398c2a180d)
+
 Dans le cadre d'études de recherches d'interviews ou tout autre document qui demande à traduire des fichiers vidéo ou audio en texte l'utilisation d'une application de transcription peut être compliquée et fastidieux.
 Dans ce cadre la réalisation d'une application était nécessaire, WhisperUX Permet de passer d'une interface en ligne de commande à une interface graphique sur un modèle de transcription audio vére de texte.
 Un installateur est à venir pour que cela fonctionne mais pour le moment il vous faut installer les dépendances les fichiers nécessaires au bon fonctionnement qui sont les suivants 
