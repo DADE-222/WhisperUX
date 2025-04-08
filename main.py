@@ -5,4 +5,4 @@ Vérifiez que tous les sous-dossiers existent dans `C:\Program Files (x86)\whisp
 Assurez-vous que les fichiers binaires de FFmpeg sont dans le dossier `ffmpeg-7.1`.
 
 ## Contact
-Pour toute assistance, contactez [votre adresse email ou site web].
+Pour toute assistance, contactez https://github.com/DADE-222/WhisperUX/edit/main/main.py.
